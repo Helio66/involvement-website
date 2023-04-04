@@ -1,0 +1,209 @@
+body{
+	background-color: white; /*e7e7e7*/
+}
+
+
+#back1{
+    text-align: center;
+    color: black;
+    background-image: url(images_bulles/fond_accueil3.png);
+    background-size: 100%;
+    background-position: bottom;
+}
+
+#backa{
+    display: flex;
+    margin: auto;
+    width: 1120px;
+}
+
+#backb{
+    display: flex;
+    margin: auto;
+    width: 1120px;
+}
+
+#back2{
+    background-color: #e7e7e7; /*#fe6868*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#back3{
+    align-content: center;
+    background-color: #e7e7e7; /*#7a7afe*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#back4{
+    align-content: center;
+    background-color: #e7e7e7; /*#fefe6f*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#back5{
+    align-content: center;
+    background-color: #e7e7e7; /*#7ffe73*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#back6{
+    align-content: center;
+    background-color: #e7e7e7; /*#fec761*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#back7{
+    align-content: center;
+    background-color: #e7e7e7; /*#f26ffe*/
+    border-radius: 15%;
+    width: 350px;
+    height: 468px;
+}
+
+#for2{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_le_s_tu.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
+#for3{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_eng_concr.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
+#for4{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_quizz.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
+#for5{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_vid_eng.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
+#link2{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #fe6868;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#link3{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #7a7afe;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#link4{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #fefe6f;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#link5{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #7ffe73;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#link6{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #fec761;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#link7{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-color: #f26ffe;
+    border-radius: 60%;
+    width: 200px;
+    height: 70px;
+}
+
+#title5{
+    background: rgb(231, 231, 231, 0.8);
+    width : 100%;
+    height: auto;
+    text-align: center;
+    border-top-right-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+
+h1{
+    font-size: 48pt;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+h3{
+    text-align: center;
+    line-height: 70px;
+    font-size: x-large;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
