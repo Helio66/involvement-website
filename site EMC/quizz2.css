@@ -1,27 +1,33 @@
 body{
 	/*background-color: #c1c1c1;*/
-    background-image: url(images_bulles/fond_eng_conc2.png);
+    background-image: url(images_bulles/fond_quizz2.png);
     background-size: 100%;
 }
 
-#back1{
-    text-align: center;
-    color: black;
-    margin-top: 19%;
-    margin-bottom: 27%;
-    /*background-image: url(images_bulles/fond_accueil2.png);
-    background-size: 100%;
-    background-position: bottom;*/
+#logistic1{
+    display: flex;
 }
 
 #back2{
     background: rgb(255, 255, 255, 0.8);
     width: 60%;
     height: auto;
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 15%;
+}
+
+#back3{
+    position: fixed;
+    background: rgb(255, 255, 255, 0.8);
+    width: 15%;
+    height: auto;
     margin: auto;
     margin-top: 5%;
     text-align: center;
     border-radius: 15%;
+    top: 25%;
 }
 
 #for2{
@@ -39,6 +45,14 @@ body{
     border-radius: 15%;
 }
 
+#for2_2{
+    width: 90%;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    border-radius: 15%;
+}
+
 #link1{
     position: fixed;
     color: black;
@@ -48,19 +62,10 @@ body{
     top: 0%;
 }
 
-h1{
-    font-size: 48pt;
-}
-
-h2{
-    font-size: xx-large;
-}
-
 h3{
     text-align: center;
     line-height: 35px;
     font-size: xx-large;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 a{
@@ -80,8 +85,20 @@ p1{
 p2{
     font-size: x-large;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 35px;
 }
 
 B{
-    color: #7a7afe;
+    color: #e7e767;
+}
+
+B1{
+    font-weight: bold;
+}
+
+#nbr{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 50%;
 }

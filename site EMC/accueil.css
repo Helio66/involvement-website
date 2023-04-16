@@ -118,6 +118,18 @@ body{
     height: 428px;
 }
 
+#for6{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_list_elec.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
 #link2{
     margin-left: auto;
     margin-right: auto;
