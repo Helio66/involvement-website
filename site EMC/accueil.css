@@ -1,14 +1,16 @@
 body{
-	background-color: white; /*e7e7e7*/
+	background-color: #f7f7f7; /*e7e7e7*/
 }
 
 
 #back1{
     text-align: center;
     color: black;
-    background-image: url(images_bulles/fond_accueil3.png);
+    background-image: url(images_bulles/fond_accueil4.png);
     background-size: 100%;
     background-position: bottom;
+    margin-top: -50px;
+    height: auto;
 }
 
 #backa{
@@ -74,9 +76,9 @@ body{
     align-content: center;
     text-align: center;
     margin: auto;
-    background-image: url(images_bulles/bulle_le_s_tu.png);
+    background-image: url(images_bulles/bulle_le_s_tu4.png);
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
     border-radius: 15%;
     width: 310px;
     height: 428px;
@@ -130,6 +132,18 @@ body{
     height: 428px;
 }
 
+#for7{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    background-image: url(images_bulles/bulle_eng_dist.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 15%;
+    width: 310px;
+    height: 428px;
+}
+
 #link2{
     margin-left: auto;
     margin-right: auto;
@@ -143,7 +157,7 @@ body{
 #link3{
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30%;
+    margin-top: 24%;
     background-color: #7a7afe;
     border-radius: 60%;
     width: 200px;

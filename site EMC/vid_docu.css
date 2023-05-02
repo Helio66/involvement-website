@@ -11,7 +11,7 @@ body{
     margin-top: 3%;
     text-align: center;
     background: rgb(255, 255, 255, 0.8);
-    border-radius: 15%;
+    border-radius: 10%;
 }
 
 #link1{
@@ -74,9 +74,25 @@ a{
     margin: auto;
 }
 
+#deb_street_art{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
+#chiffres{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
 #for2{
     /*background: rgba(255, 234, 18, 0.7);*/
-    width: 95%;
+    width: 90%;
     height: auto;
     margin: auto;
     /*border-radius: 5%;*/
