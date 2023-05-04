@@ -4,22 +4,31 @@ body{
 
 
 #back1{
-    text-align: center;
-    color: black;
+    position: fixed;
     background-image: url(images_bulles/fond_accueil4.png);
     background-size: 100%;
     background-position: bottom;
+    width: 100%;
+    height: auto;
+}
+
+#back1_2{
+    position: relative;
+    text-align: center;
+    color: black;
     margin-top: -50px;
     height: auto;
 }
 
 #backa{
+    position: relative;
     display: flex;
     margin: auto;
     width: 1120px;
 }
 
 #backb{
+    position: relative;
     display: flex;
     margin: auto;
     width: 1120px;
