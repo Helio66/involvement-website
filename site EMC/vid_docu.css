@@ -90,6 +90,14 @@ a{
     margin: auto;
 }
 
+#elize{
+    display: block;
+    border-radius: 5%;
+    width: 90%;
+    height: 450px;
+    margin: auto;
+}
+
 #for2{
     /*background: rgba(255, 234, 18, 0.7);*/
     width: 90%;

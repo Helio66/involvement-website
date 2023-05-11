@@ -85,3 +85,12 @@ p2{
 B{
     color: #fec761;
 }
+
+#img1{
+    display: block;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    border-radius: 15%;
+    border: 2px solid #fec761;
+}
